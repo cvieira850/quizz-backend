@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Caio Vieira <caiodmvieiragithub@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.18",
     "@types/node": "^14.14.11",
